@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'csv_import_ruby'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2016-06-05'
   s.summary     = "Import CSV to ActiveRecord"
   s.description = "Parse CSV spreadsheets into ActiveRecord objects"
@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'amanda.chang10@gmail.com'
   s.files       = ["lib/csv_import_ruby.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/csv_import_ruby'
+    'https://github.com/changamanda/csv_import_ruby'
   s.license       = 'MIT'
 end
